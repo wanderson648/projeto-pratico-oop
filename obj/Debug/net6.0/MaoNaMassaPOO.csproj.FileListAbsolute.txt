@@ -1,0 +1,15 @@
+C:\Users\wanderson\Desktop\1 - Fundamentos da Orientação a Objetos\MaoNaMassaPOO\bin\Debug\net6.0\MaoNaMassaPOO.exe
+C:\Users\wanderson\Desktop\1 - Fundamentos da Orientação a Objetos\MaoNaMassaPOO\bin\Debug\net6.0\MaoNaMassaPOO.deps.json
+C:\Users\wanderson\Desktop\1 - Fundamentos da Orientação a Objetos\MaoNaMassaPOO\bin\Debug\net6.0\MaoNaMassaPOO.runtimeconfig.json
+C:\Users\wanderson\Desktop\1 - Fundamentos da Orientação a Objetos\MaoNaMassaPOO\bin\Debug\net6.0\MaoNaMassaPOO.dll
+C:\Users\wanderson\Desktop\1 - Fundamentos da Orientação a Objetos\MaoNaMassaPOO\bin\Debug\net6.0\ref\MaoNaMassaPOO.dll
+C:\Users\wanderson\Desktop\1 - Fundamentos da Orientação a Objetos\MaoNaMassaPOO\bin\Debug\net6.0\MaoNaMassaPOO.pdb
+C:\Users\wanderson\Desktop\1 - Fundamentos da Orientação a Objetos\MaoNaMassaPOO\obj\Debug\net6.0\MaoNaMassaPOO.csproj.AssemblyReference.cache
+C:\Users\wanderson\Desktop\1 - Fundamentos da Orientação a Objetos\MaoNaMassaPOO\obj\Debug\net6.0\MaoNaMassaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wanderson\Desktop\1 - Fundamentos da Orientação a Objetos\MaoNaMassaPOO\obj\Debug\net6.0\MaoNaMassaPOO.AssemblyInfoInputs.cache
+C:\Users\wanderson\Desktop\1 - Fundamentos da Orientação a Objetos\MaoNaMassaPOO\obj\Debug\net6.0\MaoNaMassaPOO.AssemblyInfo.cs
+C:\Users\wanderson\Desktop\1 - Fundamentos da Orientação a Objetos\MaoNaMassaPOO\obj\Debug\net6.0\MaoNaMassaPOO.csproj.CoreCompileInputs.cache
+C:\Users\wanderson\Desktop\1 - Fundamentos da Orientação a Objetos\MaoNaMassaPOO\obj\Debug\net6.0\MaoNaMassaPOO.dll
+C:\Users\wanderson\Desktop\1 - Fundamentos da Orientação a Objetos\MaoNaMassaPOO\obj\Debug\net6.0\ref\MaoNaMassaPOO.dll
+C:\Users\wanderson\Desktop\1 - Fundamentos da Orientação a Objetos\MaoNaMassaPOO\obj\Debug\net6.0\MaoNaMassaPOO.pdb
+C:\Users\wanderson\Desktop\1 - Fundamentos da Orientação a Objetos\MaoNaMassaPOO\obj\Debug\net6.0\MaoNaMassaPOO.genruntimeconfig.cache
